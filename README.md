@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/Caiohgp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiohgp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohgp&layout=compact&langs_count=7&theme=github_dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiohgp&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -13,7 +13,7 @@
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Caio-pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh11-1.fna.fbcdn.net/v/t51.2885-19/s320x320/227565021_822039381831128_8432835614885558973_n.jpg?width=676&height=676">
+  <img align="right" alt="Caio-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/f3/45/44/f345446b574538ebb21e683d9a971f01.jpg?width=676&height=676">
 </div>
   
   ##
