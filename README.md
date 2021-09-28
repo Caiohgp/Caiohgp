@@ -13,7 +13,7 @@
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Caio-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/originals/f3/45/44/f345446b574538ebb21e683d9a971f01.jpg?width=676&height=676">
+  <img align="right" alt="Caio-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/b5/fd/95/b5fd957f49a432db6cefd67991f44a88.jpg?width=676&height=676">
 </div>
   
   ##
